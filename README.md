@@ -10,9 +10,9 @@ This project contains a list of details regarding manual testing that I have lea
    
    1️⃣ Requirement Analysis <br>
    Discussion with BA/ PO regarding the requirement, discussing scenarios that would come up if a change is implemented, jotting down impacted areas, technical architecture of the new     changes involved. Describe what the software application/system needs to be to able to do. Mainly writeen in a way that is understood by everyone in the team. During this discussion we should also describe what the software application needs to be able to do but in more granularity. Technical discussions should take place at this stage.  <br>
-   ☑️ Participated in Requirement analysis for portguese news web page created using word press, mobile web applications, Shopify applications in Shine Dezign Infonet Pvt. Ltd. <br>
-   ☑️ Participated in the Requirement analysis for new features that were introduced for the HRIS system, which included multiple modules. Requirement analysis for the  introduction of triggers and change requests, handled the  requiremet analysis interdependent modules in CatalystOne Info. Solutions Pvt. Ltd. <br>
-   ☑️ Participated in the requirement analysis for major releases which included Financial selector screen, Fraud Monitoring, implementation of Data model and partner integrations. Verified 
+   ✔ Participated in Requirement analysis for portguese news web page created using word press, mobile web applications, Shopify applications in Shine Dezign Infonet Pvt. Ltd. <br>
+   ✔ Participated in the Requirement analysis for new features that were introduced for the HRIS system, which included multiple modules. Requirement analysis for the  introduction of triggers and change requests, handled the  requiremet analysis interdependent modules in CatalystOne Info. Solutions Pvt. Ltd. <br>
+   ✔ Participated in the requirement analysis for major releases which included Financial selector screen, Fraud Monitoring, implementation of Data model and partner integrations. Verified 
      the analysis and prepared edge cases accordingly in Spring Financial. <br>
 <br><br>
 
@@ -29,6 +29,19 @@ This project contains a list of details regarding manual testing that I have lea
 
 <br><br>
 
-   3️⃣
+   3️⃣ Designing
+   In the Designing phase imphasis has been to identify aspects of the design that might cause problems, for this it is crucial for me to understand how the current design works and how adding something new might hamper, affect the existing flow. This allows to prepare detailed regression test cases.<br>
+   ✔ For Shine Deizign the mocks were sent by the business analysts after discussion with the PO and I was supposed to provide my analysis of the design on different devices. I would ask for the most used devices to prepare my analysis according, there was usually not a large scope of change in these discussions <br>
+  ✔ For CatalystOne I was included in the design phase during the implementation of microservices from their monolithic architecture, deriving how the services would work, preparing the contanerised environment. This discussion also included implementation of technical architectural changes and not just UI. There was a UI change for a new feature, I was included in the design meetings and provided scenarios to keep in mind for the Scandanavian alphabets.
+   ✔ For Spring Financial, we have a Design team that sends the Figma after they have been approved, once the Figmas are approved a round of discussion is held regarding the User experience and any change where we can enahce the UI/ UX. Once discussed changes are implemented and the designs are changed and sent for Final round of approval. <br><br>
+
+   4️⃣ Implementation
+  ✔  I have taken up various discussions with the Salesforce developer regarding Implementation of new changes and how we can enhance the change for everyone involved.  <br><br>
+
+  5️⃣ Testing
+  The main job starts
+  ✔ Performing unit testing, component testing on the feature branch <br>
+  ✔ 
+   
    
 
