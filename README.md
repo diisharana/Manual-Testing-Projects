@@ -41,7 +41,11 @@ This project contains a list of details regarding manual testing that I have lea
   5️⃣ Testing
   The main job starts
   ✔ Performing unit testing, component testing on the feature branch <br>
-  ✔ 
+  ✔ Experienced in Regression Testing, preparing detailed regression suites and maintaining them with every iteration<br>
+  ✔ Experienced in Sanity and Smoke Test using CI/ CD pipelines
+  ✔ Running automated suites for regression using Typescript
+  ✔API testing using Postman
+  
    
    
 
