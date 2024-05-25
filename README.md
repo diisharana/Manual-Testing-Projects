@@ -45,7 +45,23 @@ This project contains a list of details regarding manual testing that I have lea
   ✔ Experienced in Sanity and Smoke Test using CI/ CD pipelines
   ✔ Running automated suites for regression using Typescript
   ✔API testing using Postman
-  
-   
-   
 
+
+
+  <br><br>
+  <h3>Projects I have worked on</h3> <br>
+   ✔ Spring Financial <br>
+   1. Auto-Underwriter Model <br>
+   One of the first projects assigned to me in the QA team of two, I was supposed to analyze that the model decision was working as expected and sending the results after verifying the banking file of the customer to the BE to store the payload in the databse table and finally move to the CRM (salesforce), This testing also included verifying the flow from S3 to snowflake (using Papertrail). Eventually I have become the core QA to handle all the changes and upgrades made from version 1 to version to for the Data Science Team. <br>
+   2. Fraud Monitoring <br>
+   For ensuring the Underwriting team was handling accurate customer data, we developed a logic in the Backend and Front end. In the application, customers are asked to enter banking details and photo ID, we would map the customers name of the ID, banking data and send it to the Fraud Monitoring section on Salesforce <br>
+   3. Marketing Parameters <br>
+   Ensuring that Growth department is able to fund the partners and create funnels for leads gathered from different opportunities, we implemented logic to track the marketing parameters, testing included verifying flow from different resources <br>
+   4. State machines for partner integration <br>
+   We implemented a logic where the state machines in AWS would be triggered when any partner would be called and on another action, I had to ensure that testing focused on correct state machine triggering for all partners. <br>
+   5. Financial Selector Screen <br>
+   One of the main changes in applciation flow was introduction of a new financial screen, where testing focused on the integration, Front end and backend calls, response, requests and ensuring correct banking files were being save din the database and the CRM, the project was a success with zero bugs in production. <br>
+   6. Partner Integration <br>
+   Recently handled a new partner integration from scratch and led the QA forefront for all activities, ensured accurate data being passed and the integration between Salesforce, Integration Module and Loan Module. Successfully released this product with feature flag toggled off ensuring regression testing done to perfection with no impact on the current flow. Once the toggled was turnt on successfully had a seamless release.<br>
+   7. Odoo Integration
+   Currently working on Odoo being the new CRM, buiding test strategies, issue trackers, test cases and scnearios from scratch and communivation updated to the PO.
